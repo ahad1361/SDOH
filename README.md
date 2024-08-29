@@ -22,10 +22,5 @@ Open `SDOH_1.ipynb` in Jupyter Notebook and run the cells sequentially to perfor
 
 The data used in this project is from http://www.cdc.gov/nccdphp/dph/ and TriNetX . Please refer to the data licensing terms.
 
-## Authors
 
-- Your Name (GitHub: [username](https://github.com/username))
 
-## Acknowledgments
-
-Thanks to [organization or person] for [data, inspiration, etc.].
